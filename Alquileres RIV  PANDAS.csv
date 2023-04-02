@@ -1,0 +1,155 @@
+Tipo ;Descripcion;Habitaciones;Baños;Areas;Barrio; Valor 
+Casa;Casa en Alquiler;2;1;80; Banda Norte;$ 75.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;70;Zona Noroccidental;$ 760.000,00
+Casa;Casa en venta en Castilla;4;3;170;Castilla;$ 1.445.000,00
+Apartamento;Apartamento en venta en Chico Reservado;3;3;144;Chico Reservado;$ 2.130.000,00
+Apartamento;Apartamento en venta en Usaquén;3;2;154;Usaquén;$ 2.815.000,00
+Apartamento;Apartamento en venta en Bella Suiza;2;3;128;Bella Suiza;$ 3.500.000,00
+Apartamento;Apartamento en venta en Bella Suiza;1;2;62;Bella Suiza;$ 4.185.000,00
+Apartamento;Apartamento en venta en Bella Suiza;1;2;62;Bella Suiza;$ 4.870.000,00
+Apartamento;Apartamento en venta en Bella Suiza;3;4;212;Bella Suiza;$ 5.555.000,00
+Apartamento;Apartamento en venta en El Chicó;3;2;159;El Chicó;$ 6.240.000,00
+Apartamento;Apartamento en venta en Bella Suiza;2;2;80;Bella Suiza;$ 6.925.000,00
+Departamento;Departamento en Venta;1;1;40;Centro, Abilene;$ 12.000.000,00
+Apartamento;Apartamento en venta en Bella Suiza;2;2;80;Bella Suiza;$ 13.000.000,00
+Casa;Casa en venta en Tintala;3;2;59;Tintala;$ 14.000.000,00
+Apartamento;Apartamento en venta en Tintala;2;1;45;Tintala;$ 15.000.000,00
+Casa;Casa en venta en Marly;3;3;147;Marly;$ 16.000.000,00
+Apartamento;Apartamento en venta en Kennedy;4;3;98;Kennedy;$ 17.000.000,00
+Casa;Casa en venta en Zona Noroccidental;3;4;300;Zona Noroccidental;$ 18.000.000,00
+Apartamento;Apartamento en venta en Nicolas De Federman;3;2;87;Nicolas De Federman;$ 19.000.000,00
+Apartamento;Apartamento en venta en La Calleja;2;2;82;La Calleja;$ 20.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;2;1;45;Zona Noroccidental;$ 21.000.000,00
+Casa;Casa en venta en Zona Noroccidental;3;6;380;Zona Noroccidental;$ 22.000.000,00
+Departamento;Departamento en alquiler;2;1;35;Bimaco;$ 80.000,00
+Apartamento;Apartamento en venta en Usaquén;1;2;50;Usaquén;$ 90.000,00
+Apartamento;Apartamento en venta en Nicolas De Federman;3;2;89;Nicolas De Federman;$ 100.000,00
+Casa;Casa en venta en Zona Noroccidental;3;5;365;Zona Noroccidental;$ 70.000,00
+Casa;Casa en venta en Zona Noroccidental;5;5;450;Zona Noroccidental;$ 80.000,00
+Casa;Casa en venta en Zona Noroccidental;4;5;315;Zona Noroccidental;$ 90.000,00
+Apartamento;Apartamento en venta en Mazuren;3;3;102;Mazuren;$ 10.000,00
+Casa;Casa en venta en Zona Noroccidental;4;6;423;Zona Noroccidental;$ 10.000,00
+Apartamento;Apartamento en venta en Suba;3;2;75;Suba;$ 20.000,00
+Casa;Casa en venta en Zona Noroccidental;5;2;200;Zona Noroccidental;$ 30.000,00
+Apartamento;Apartamento en venta en Barrios Unidos;3;2;67;Barrios Unidos;$ 40.000,00
+Departamento;Departamento en Venta;3;2;79; Alberdi;$ 15.000.000,00
+Apartamento;Apartamento en venta en Usaquén;3;3;66;Usaquén;$ 16.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;78;Zona Noroccidental;$ 17.000.000,00
+Apartamento;Apartamento en venta en Engativa;3;2;60;Engativa;$ 18.000.000,00
+Apartamento;Apartamento en venta en Fontibón;3;3;87;Fontibón;$ 19.000.000,00
+Casa;Casa en venta en Tintala;3;2;75;Tintala;$ 20.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;2;2;45;Zona Noroccidental;$ 21.000.000,00
+Apartamento;Apartamento en venta en Villa Alsacia;3;2;75;Villa Alsacia;$ 22.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;32;2;63;Zona Noroccidental;$ 23.000.000,00
+Apartamento;Apartamento en venta en Palermo;3;2;130;Palermo;$ 24.000.000,00
+Apartamento;Apartamento en venta en Chico Reservado;1;1;64;Chico Reservado;$ 25.000.000,00
+Casa;casa en Venta;4;2;90;Fénix;$ 12.000.000,00
+Casa;Casa en venta en Zona Noroccidental;3;2;86;Zona Noroccidental;$ 70.000,00
+Apartamento;Apartamento en venta en La Candelaria;4;4;160;La Candelaria;$ 80.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;4;4;294;Zona Noroccidental;$ 90.000,00
+Apartamento;Apartamento en venta en El Contador;3;3;206;El Contador;$ 10.000,00
+Apartamento;Apartamento en venta en El Batán;3;3;103;El Batán;$ 10.000,00
+Apartamento;Apartamento en venta en Usaquén;2;2;80;Usaquén;$ 20.000,00
+Apartamento;Apartamento en venta en Santa Barbara;3;1;101;Santa Barbara;$ 30.000,00
+Apartamento;Apartamento en venta en Mirandela;3;3;87;Mirandela;$ 40.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;78;Zona Noroccidental;$ 50.000,00
+Apartamento;Apartamento en venta en Castilla;3;2;68;Castilla;$ 60.000,00
+Casa;casa en Venta;4;2;120; Golf Club;$ 18.000.000,00
+Apartamento;Apartamento en venta en Cedritos;2;2;79;Cedritos;$ 89.000,00
+Apartamento;Apartamento en venta en Mazuren;3;3;92;Mazuren;$ 110.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;88;Zona Noroccidental;$ 31.000,00
+Apartamento;Apartamento en venta en Fontibón;3;2;84;Fontibón;$ 52.000,00
+Apartamento;Apartamento en venta en El Contador;3;3;177;El Contador;$ 73.000,00
+Apartamento;Apartamento en venta en Kennedy;2;1;40;Kennedy;$ 94.000,00
+Apartamento;Apartamento en venta en Usaquén;2;2;80;Usaquén;$ 15.000,00
+Apartamento;Apartamento en venta en Colina Campestre;3;3;109;Colina Campestre;$ 36.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;75;Zona Noroccidental;$ 57.000,00
+Apartamento;Apartamento en venta en Colina Campestre;2;1;50;Colina Campestre;$ 78.000,00
+Departamento;Departamento en Venta;3;1;89;Las Quintas;$ 18.000.000,00
+Apartamento;Apartamento en venta en Fontibón;3;2;87;Fontibón;$ 19.000.000,00
+Apartamento;Apartamento en venta en Usaquén;3;3;66;Usaquén;$ 20.000.000,00
+Apartamento;Apartamento en venta en Hayuelos;3;2;61;Hayuelos;$ 21.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;78;Zona Noroccidental;$ 22.000.000,00
+Apartamento;Apartamento en venta en Engativa;3;2;60;Engativa;$ 23.000.000,00
+Apartamento;Apartamento en venta en Fontibón;3;3;87;Fontibón;$ 24.000.000,00
+Apartamento;Apartamento en venta en Villa Alsacia;3;2;75;Villa Alsacia;$ 25.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;32;2;63;Zona Noroccidental;$ 26.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;2;2;45;Zona Noroccidental;$ 27.000.000,00
+Casa;Casa en venta en Tintala;3;2;75;Tintala;$ 28.000.000,00
+Casa;Casa en Alquiler;3;2;140; Jardín;$ 68.000,00
+Apartamento;Apartamento en venta en Palermo;3;2;130;Palermo;$ 89.000,00
+Apartamento;Apartamento en venta en El Batán;3;3;103;El Batán;$ 110.000,00
+Apartamento;Apartamento en venta en Chico Reservado;1;1;64;Chico Reservado;$ 31.000,00
+Apartamento;Apartamento en venta en Usaquén;2;2;80;Usaquén;$ 52.000,00
+Apartamento;Apartamento en venta en Castilla;3;2;68;Castilla;$ 73.000,00
+Apartamento;Apartamento en venta en Santa Barbara;3;1;101;Santa Barbara;$ 94.000,00
+Apartamento;Apartamento en venta en Mirandela;3;3;87;Mirandela;$ 15.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;78;Zona Noroccidental;$ 36.000,00
+Apartamento;Apartamento en venta en Cedritos;2;2;79;Cedritos;$ 57.000,00
+Casa;Casa en venta en Zona Noroccidental;3;2;86;Zona Noroccidental;$ 78.000,00
+Departamento;Departamento en alquiler;1;1;50; Obrero;$ 70.000,00
+Apartamento;Apartamento en venta en Fontibón;3;2;84;Fontibón;$ 80.000,00
+Apartamento;Apartamento en venta en Mazuren;3;3;92;Mazuren;$ 90.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;88;Zona Noroccidental;$ 10.000,00
+Apartamento;Apartamento en venta en Kennedy;2;1;40;Kennedy;$ 10.000,00
+Apartamento;Apartamento en venta en El Contador;3;3;177;El Contador;$ 20.000,00
+Apartamento;Apartamento en venta en Usaquén;2;2;80;Usaquén;$ 30.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;4;4;294;Zona Noroccidental;$ 40.000,00
+Apartamento;Apartamento en venta en La Candelaria;4;4;160;La Candelaria;$ 50.000,00
+Apartamento;Apartamento en venta en El Contador;3;3;206;El Contador;$ 60.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;2;2;60;Zona Noroccidental;$ 170.000,00
+Departamento;Departamento en alquiler;1;1;60;Universitario;$ 67.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;1;44;Zona Noroccidental;$ 130.000,00
+Apartamento;Apartamento en venta en Engativa;2;2;53;Engativa;$ 140.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;1;1;58;Zona Noroccidental;$ 150.000,00
+Apartamento;Apartamento en venta en Usaquén;3;2;152;Usaquén;$ 90.000,00
+Apartamento;Apartamento en venta en Kennedy;2;1;40;Kennedy;$ 100.000,00
+Apartamento;Apartamento en venta en Kennedy;2;1;40;Kennedy;$ 14.000.000,00
+Apartamento;Apartamento en venta en Fontibón;3;1;48;Fontibón;$ 15.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;68;Zona Noroccidental;$ 16.000.000,00
+Casa;Casa en venta en Kennedy;3;2;86;Kennedy;$ 17.000.000,00
+Apartamento;Apartamento en venta en Santa Barbara;3;3;114;Santa Barbara;$ 18.000.000,00
+Casa;Casa en Alquiler;3;2;110;Villa Dalcar;$ 90.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;2;1;44;Zona Noroccidental;$ 80.000,00
+Apartamento;Apartamento en venta en Ciudad Salitre;3;2;100;Ciudad Salitre;$ 90.000,00
+Apartamento;Apartamento en venta en Quinta Paredes;3;2;100;Quinta Paredes;$ 100.000,00
+Apartamento;Apartamento en venta en Hayuelos;3;2;45;Hayuelos;$ 110.000,00
+Apartamento;Apartamento en venta en Usaquén;3;5;178;Usaquén;$ 120.000,00
+Casa;Casa en venta en Usaquén;4;3;105;Usaquén;$ 130.000,00
+Apartamento;Apartamento en venta en Cedritos;3;2;98;Cedritos;$ 140.000,00
+Oficina/Consultorio;Oficina/Consultorio en venta en Ciudad Salitre;4;2;200;Ciudad Salitre;$ 150.000,00
+Apartamento;Apartamento en venta en Santa Barbara;1;2;69;Santa Barbara;$ 90.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;3;2;73;Zona Noroccidental;$ 100.000,00
+Casa;casa en Venta;3;2;100;Cispren;$ 14.000.000,00
+Apartamento;Apartamento en venta en Cedritos;4;4;158;Cedritos;$ 15.000.000,00
+Apartamento;Apartamento en venta en Usaquén;3;4;100;Usaquén;$ 16.000.000,00
+Apartamento;Apartamento en venta en Candelaria La Nueva;3;1;54;Candelaria La Nueva;$ 17.000.000,00
+Apartamento;Apartamento en venta en Kennedy;3;2;78;Kennedy;$ 18.000.000,00
+Apartamento;Apartamento en venta en Kennedy;3;2;89;Kennedy;$ 19.000.000,00
+Casa;Casa en venta en Zona Noroccidental;4;4;220;Zona Noroccidental;$ 20.000.000,00
+Casa;Casa en venta en Zona Noroccidental;4;3;280;Zona Noroccidental;$ 21.000.000,00
+Apartamento;Apartamento en venta en Santa Barbara;2;3;85;Santa Barbara;$ 80.000,00
+Apartamento;Apartamento en venta en Bella Suiza;2;2;54;Bella Suiza;$ 90.000,00
+Apartamento;Apartamento en venta en Engativa;3;2;49;Engativa;$ 100.000,00
+Departamento;Departamento en alquiler;2;1;70;Cispren;$ 80.000,00
+Apartamento;Apartamento en venta en Colina Campestre;4;3;115;Colina Campestre;$ 90.000,00
+Apartamento;Apartamento en venta en Chico Norte;2;2;88;Chico Norte;$ 100.000,00
+Apartamento;Apartamento en venta en Mazuren;2;2;67;Mazuren;$ 10.000,00
+Apartamento;Apartamento en venta en Usaquén;3;2;100;Usaquén;$ 20.000,00
+Apartamento;Apartamento en venta en Normandia;2;2;77;Normandia;$ 30.000,00
+Apartamento;Apartamento en venta en Bella Suiza;1;2;61;Bella Suiza;$ 40.000,00
+Apartamento;Apartamento en venta en Chico Reservado;3;4;150;Chico Reservado;$ 50.000,00
+Apartamento;Apartamento en venta en Ciudad Bolívar;3;1;39;Ciudad Bolívar;$ 60.000,00
+Apartamento;Apartamento en venta en Cedritos;3;3;100;Cedritos;$ 70.000,00
+Apartamento;Apartamento en venta en Engativa;2;2;58;Engativa;$ 180.000,00
+Departamento;Departamento en Venta;2;1;80;Buena Vista;$ 17.000.000,00
+Apartamento;Apartamento en venta en Bosa;3;2;60;Bosa;$ 18.000.000,00
+Apartamento;Apartamento en venta en Rafael Uribe Uribe;3;1;50;Rafael Uribe Uribe;$ 19.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;2;2;51;Zona Noroccidental;$ 20.000.000,00
+Apartamento;Apartamento en venta en Cedritos;2;3;97;Cedritos;$ 21.000.000,00
+Apartamento;Apartamento en venta en Cedritos;3;2;71;Cedritos;$ 22.000.000,00
+Apartamento;Apartamento en venta en Bella Suiza;2;3;82;Bella Suiza;$ 23.000.000,00
+Apartamento;Apartamento en venta en Zona Noroccidental;1;1;57;Zona Noroccidental;$ 24.000.000,00
+Apartamento;Apartamento en venta en Usaquén;2;2;51;Usaquén;$ 25.000.000,00
+Casa;Casa en venta en Usaquén;4;5;236;Usaquén;$ 26.000.000,00
+Apartamento;Apartamento en venta en Fontibón;3;2;54;Fontibón;$ 27.000.000,00
